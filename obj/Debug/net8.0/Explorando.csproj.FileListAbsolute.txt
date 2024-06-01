@@ -1,0 +1,14 @@
+C:\Projetos\Explorando\bin\Debug\net8.0\Explorando.exe
+C:\Projetos\Explorando\bin\Debug\net8.0\Explorando.deps.json
+C:\Projetos\Explorando\bin\Debug\net8.0\Explorando.runtimeconfig.json
+C:\Projetos\Explorando\bin\Debug\net8.0\Explorando.dll
+C:\Projetos\Explorando\bin\Debug\net8.0\Explorando.pdb
+C:\Projetos\Explorando\obj\Debug\net8.0\Explorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Explorando\obj\Debug\net8.0\Explorando.AssemblyInfoInputs.cache
+C:\Projetos\Explorando\obj\Debug\net8.0\Explorando.AssemblyInfo.cs
+C:\Projetos\Explorando\obj\Debug\net8.0\Explorando.csproj.CoreCompileInputs.cache
+C:\Projetos\Explorando\obj\Debug\net8.0\Explorando.dll
+C:\Projetos\Explorando\obj\Debug\net8.0\refint\Explorando.dll
+C:\Projetos\Explorando\obj\Debug\net8.0\Explorando.pdb
+C:\Projetos\Explorando\obj\Debug\net8.0\Explorando.genruntimeconfig.cache
+C:\Projetos\Explorando\obj\Debug\net8.0\ref\Explorando.dll
