@@ -1,4 +1,6 @@
-﻿using Explorando.Models;
+﻿
+using System.Globalization;
+using Explorando.Models;
 
 Pessoa p1 = new Pessoa(nome: "Paulo", sobrenome: "Ricardo");
 Pessoa p2 = new Pessoa(nome: "Eduardo", sobrenome: "Fernandes");
